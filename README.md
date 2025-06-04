@@ -1,6 +1,6 @@
 # ep3-appemp-04-06
 
-Aplicación web creada como parte del examen práctico de React, que simula **Dribble**. Permite ver películas disponibles, buscarlas por título, marcarlas como favoritas (persistencia en localStorage), y contactar mediante un formulario validado.
+Aplicación web creada como parte del examen práctico de React, que simula **Dribble**. Permite ver imagenes y fotografias (persistencia en localStorage), y contactar mediante un formulario validado.
 
 ## Tecnologías Utilizadas
 - **React 19** + **Vite**
